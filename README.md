@@ -81,7 +81,7 @@ Strong foundation in <b>Java</b> and Object-Oriented Programming (OOP). Focused 
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/martin-david-sanmiguel-delgado" target="blank">
+  <a href="https://www.linkedin.com/in/martin-david-sanmiguel-delgado-3b178117a/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
