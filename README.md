@@ -23,9 +23,9 @@
       <p>📫 &nbsp;Reach me at: <b><a href="mailto:martinsanmigueld@gmail.com">martinsanmigueld@gmail.com</a></b></p>
     </td>
     <td width="45%" align="center">
-      <h3>📊 GitHub Stats</h3>
+      <h3>📊 Top Languages</h3>
       <a href="https://github.com/Martinjaveriana">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martinjaveriana&show_icons=true&theme=nord&hide_border=true&title_color=2196F3"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinjaveriana&layout=compact&theme=nord&hide_border=true&title_color=2196F3"/>
       </a>
     </td>
   </tr>
