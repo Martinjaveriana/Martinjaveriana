@@ -1,27 +1,87 @@
-# Hi 👋, I'm Martin David Sanmiguel Delgado
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  # Hi, I'm Martin David Sanmiguel 👋
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=800&lines=Software+Developer;Java+Enthusiast;System+Architecture+%26+Design+Patterns;Linux+Fan+%26+Low-Level+Programming" alt="Typing SVG" />
+  </a>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### A passionate C, C++ and JAVA developer
+<br>
 
-- 🔭 I'm currently working on **a personal blog**
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>🎓 &nbsp;<b>Systems Engineering</b> student at Pontificia Universidad Javeriana.</p>
+      <p>💻 &nbsp;Passionate about software development, with a strong focus on <b>Backend</b> and <b>Design Patterns</b>.</p>
+      <p>⚙️ &nbsp;Deeply interested in low-level programming: multithreading, concurrency, and OS processes.</p>
+      <p>🐧 &nbsp;A huge <b>Linux</b> fan—my daily driver. I love the terminal and open-source environments.</p>
+      <p>📫 &nbsp;Reach me at: <b><a href="mailto:martinsanmigueld@gmail.com">martinsanmigueld@gmail.com</a></b></p>
+    </td>
+    <td width="45%" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <a href="https://github.com/Martinjaveriana">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Martinjaveriana&show_icons=true&theme=nord&hide_border=true&title_color=2196F3"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 🌱 I'm currently learning **python, javascript and typescript**
+<br>
 
-- 👯 I'm looking to collaborate on **open source proyects**
+## 🎯 Core Focus & Skills
 
-- 🤝 I'm looking for help with **Anything**
+<details>
+<summary><b>🐧 Operating Systems & Low-Level</b></summary>
+<br>
+Deep understanding of <b>Linux</b> and <b>Open Source</b> environments. Hands-on experience with <b>C</b>, <b>Bash</b>, terminal mastery, process management, and multithreading.
+</details>
 
-- 💬 Ask me about **Java, POO and data structures**
+<details>
+<summary><b>🌐 Networking & Infrastructure</b></summary>
+<br>
+Solid background in enterprise network administration. Proficient in managing servers, configuring <b>DNS</b> and <b>Apache</b>, designing <b>VLANs</b>, and implementing <b>VLSM</b> routing.
+</details>
 
-- 📫 How to reach me **martinsanmigueld@gmail.com**
+<details>
+<summary><b>☕ Software Development & Backend</b></summary>
+<br>
+Strong foundation in <b>Java</b> and Object-Oriented Programming (OOP). Focused on writing clean code, applying <b>Design Patterns</b>, mastering data structures, and building scalable backend systems.
+</details>
 
-- ⚡ Fun fact **I think Im funny**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Martinjaveriana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Martinjaveriana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martin david sanmiguel delgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin david sanmiguel delgado" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+#### 💻 Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">&nbsp;
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC">&nbsp;
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">&nbsp;
+</div>
+
+#### 🗃️ Databases & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">&nbsp;
+</div>
+
+<br>
+
+<h3 align="center">🔗 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/martin-david-sanmiguel-delgado" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a></p>
-
