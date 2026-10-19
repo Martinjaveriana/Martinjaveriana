@@ -48,9 +48,9 @@ Solid background in enterprise network administration. Proficient in managing se
 </details>
 
 <details>
-<summary><b>☕ Software Development & Backend</b></summary>
+<summary><b>☕ Software Development & Web development</b></summary>
 <br>
-Strong foundation in <b>Java</b> and Object-Oriented Programming (OOP). Focused on writing clean code, applying <b>Design Patterns</b>, mastering data structures, and building scalable backend systems.
+Strong foundation in <b>Java</b> and Object-Oriented Programming (OOP). Focused on writing clean code, applying <b>Design Patterns</b>, mastering data structures, and building scalable web systems.
 </details>
 
 <br>
